@@ -2,7 +2,7 @@
 
 This is a simple DevOps project where I deployed a static website using Docker and Nginx with Volume Mount for live updates.
 
-## 📌 Project Description
+## Project Description
 In this project, I used the official Nginx Docker image and mounted a local folder as a volume to enable real-time website updates without rebuilding the Docker image.
 
 ## 🛠️ Technologies Used
