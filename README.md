@@ -14,7 +14,7 @@ In this project, I used the official Nginx Docker image and mounted a local fold
 ## How to Run the Project
 
 ### Step 1: Clone the repository
-git clone https://github.com/YOUR-USERNAME/nginx-volume-project.git
+git clone git clone https://github.com/Adarshrajput0770/docker-nginx-volume-project.git
 
 ### Step 2: Go to project folder
 cd nginx-volume-project
